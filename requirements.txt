@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain-community
+python-docx
+google-api-python-client
+PyPDF2
+Pillow
+openai==0.28.0
+pip==24.2
